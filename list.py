@@ -1,2 +1,0 @@
-acy=[]
-acy.append('LOL')
